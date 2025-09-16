@@ -1,0 +1,13 @@
+#1. Clone empty repo
+git clone https://github.com/testgithubdisha/contracts-dashboard.git
+cd contracts-dashboard
+
+#2. Copy the project files I gave you into this folder
+#(paste src/, public/, package.json, tailwind config, README.md, etc.)
+
+#3. Stage and commit files
+git add .
+git commit -m "Initial commit - contracts dashboard"
+
+#4. Push to GitHub
+git push origin main
